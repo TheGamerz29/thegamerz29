@@ -8,7 +8,7 @@
 
 I am currently working on my website!<br>
 If you guys want to check it out, please click this emoji! [😋❤😁](thegamerz29.github.io)<br>
-I love coding<br>
+I love coding💖!<br>
 ![comp](https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/Compiler.png)<br>
 If you guys want to download tools🔧🔨 I used for coding, click on<br>
 download button below👇:<br>
