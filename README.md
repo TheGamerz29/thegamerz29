@@ -7,5 +7,5 @@
 ---
 
 I am currently working on my website!<br>
-If you guys want to check it out, go to thegamerz29.github.io !
+If you guys want to check it out, please go to thegamerz29.github.io!<br>
 I love coding💖!<br>
