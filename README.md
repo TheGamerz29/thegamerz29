@@ -12,4 +12,4 @@ I love coding💖!<br>
 
 ---
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=thegamerz29&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=thegamerz29&show_icons=true&theme=cobalt&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
