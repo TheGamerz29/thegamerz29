@@ -6,8 +6,8 @@
 
 ---
 
-I am currently working on my website!<br>
-If you guys want to check it out, please go to thegamerz29.github.io!<br>
+I love batch because it's Simple.
+Simple is better than complicated right?😏
 I love coding💖!<br>
 
 ---
