@@ -6,8 +6,8 @@
 
 ---
 
-I love batch because it's Simple.
-Simple is better than complicated right?😏
+I love batch because it's Simple.<br>
+Simple is better than complicated right?😏<br>
 I love coding💖!<br>
 
 ---
